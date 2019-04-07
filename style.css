@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background: lightgrey;
+  margin: auto;
+}
+
+canvas{
+  margin: 40px 0;
+}
